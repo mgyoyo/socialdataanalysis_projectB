@@ -1,2 +1,2 @@
 # socialdataanalysis_projectB
-Repository for project B (02806)
+Repository for Assignment project B (02806)
